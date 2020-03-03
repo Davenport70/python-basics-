@@ -23,7 +23,7 @@ print(welcome_text, name) # overloading the print method
 # interpolation
 # inserting a string inside another string
 # or running python inside a string
-print(f'WELCOME {input("What is your name?")} TO CLASS 54, WE ARE CONTESTED TERRAIN ')
+print(f'WELCOME {name} TO CLASS 54, WE ARE CONTESTED TERRAIN ')
 
 print('WELCOME {} TO CLASS 54, we are contested terrain'.format(name))
 
