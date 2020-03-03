@@ -18,3 +18,4 @@ Other good practices:
 - good naming
 - DRY
 - Other
+- RTFM (read the f*ing manual) - (Python Library)
