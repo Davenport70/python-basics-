@@ -55,6 +55,6 @@ print(example_long_str.replace('?', '!'))
 # chain some methods and:
 # remove trailing white spaces
 # make it nicely formated with only the first letter capitalised
-print(example_long_str.strip().capitalize().replace('?', '!'))
+print(example_long_str.strip().capitalize().replace('bAD', 'well'))
 
 # create a list

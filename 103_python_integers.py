@@ -28,3 +28,7 @@ print(10 * 3)
 
 # modulo %
 print(10 % 3)
+
+# round()
+a = 10.35455474545743564
+print(round(a, 2))
